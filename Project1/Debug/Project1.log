@@ -1,0 +1,8 @@
+﻿  Board.cpp
+  PlayerList.cpp
+  Set.cpp
+  SudokuList.cpp
+c:\users\el ales\desktop\aasudokillo\project1\project1\sudokulist.cpp(56): warning C4101: 'newScore': variable local sin referencia
+c:\users\el ales\desktop\aasudokillo\project1\project1\sudokulist.cpp(56): warning C4101: 'newPosition': variable local sin referencia
+  Generando código...
+  Project1.vcxproj -> C:\Users\El Ales\Desktop\AASUDOKILLO\Project1\Debug\Project1.exe
