@@ -1,0 +1,93 @@
+﻿  Cell.cpp
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.cpp(48): error C2572: 'defaultColour': nueva definición de parámetro predeterminado: parámetro 1
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(21): note: vea la declaración de 'defaultColour'
+  Game.cpp
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\game.cpp(43): warning C4101: 'tablero': variable local sin referencia
+  main.cpp
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(5): error C2374: 'SET_SIZE': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(5): note: vea la declaración de 'SET_SIZE'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(10): error C2371: 'tSet': nueva definición; tipos básicos distintos
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(10): note: vea la declaración de 'tSet'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(4): error C2374: 'BLACK': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(4): note: vea la declaración de 'BLACK'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(5): error C2374: 'BLUE': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(5): note: vea la declaración de 'BLUE'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(6): error C2374: 'RED': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(6): note: vea la declaración de 'RED'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): error C2365: 'EMPTY': nueva definición; la definición anterior era 'enumerador'
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): note: vea la declaración de 'EMPTY'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): error C2365: 'FIXD': nueva definición; la definición anterior era 'enumerador'
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): note: vea la declaración de 'FIXD'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): error C2365: 'FILLED': nueva definición; la definición anterior era 'enumerador'
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): note: vea la declaración de 'FILLED'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): error C2371: 'tState': nueva definición; tipos básicos distintos
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): note: vea la declaración de 'tState'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(14): error C2371: 'tCell': nueva definición; tipos básicos distintos
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(14): note: vea la declaración de 'tCell'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(17): error C2572: 'fillCell': nueva definición de parámetro predeterminado: parámetro 1
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(17): note: vea la declaración de 'fillCell'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(21): error C2572: 'defaultColour': nueva definición de parámetro predeterminado: parámetro 1
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(21): note: vea la declaración de 'defaultColour'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\board.h(3): error C2374: 'ROW': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\board.h(3): note: vea la declaración de 'ROW'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\board.h(4): error C2374: 'COLUMN': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\board.h(4): note: vea la declaración de 'COLUMN'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\board.h(5): error C2374: 'FULLBOARD': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\board.h(5): note: vea la declaración de 'FULLBOARD'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\board.h(6): error C2369: 'tBoard': nueva definición; subíndices distintos
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\board.h(6): note: vea la declaración de 'tBoard'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(5): error C2374: 'SET_SIZE': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(5): note: vea la declaración de 'SET_SIZE'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(10): error C2371: 'tSet': nueva definición; tipos básicos distintos
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(10): note: vea la declaración de 'tSet'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(4): error C2374: 'BLACK': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(4): note: vea la declaración de 'BLACK'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(5): error C2374: 'BLUE': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(5): note: vea la declaración de 'BLUE'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(6): error C2374: 'RED': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(6): note: vea la declaración de 'RED'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): error C2365: 'EMPTY': nueva definición; la definición anterior era 'enumerador'
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): note: vea la declaración de 'EMPTY'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): error C2365: 'FIXD': nueva definición; la definición anterior era 'enumerador'
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): note: vea la declaración de 'FIXD'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): error C2365: 'FILLED': nueva definición; la definición anterior era 'enumerador'
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): note: vea la declaración de 'FILLED'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): error C2371: 'tState': nueva definición; tipos básicos distintos
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(8): note: vea la declaración de 'tState'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(14): error C2371: 'tCell': nueva definición; tipos básicos distintos
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(14): note: vea la declaración de 'tCell'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(17): error C2572: 'fillCell': nueva definición de parámetro predeterminado: parámetro 1
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(17): note: vea la declaración de 'fillCell'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(21): error C2572: 'defaultColour': nueva definición de parámetro predeterminado: parámetro 1
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\cell.h(21): note: vea la declaración de 'defaultColour'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(3): error C2374: 'MAX_SUDOKUS': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(3): note: vea la declaración de 'MAX_SUDOKUS'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(4): error C2374: 'FILENAME': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(4): note: vea la declaración de 'FILENAME'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(9): error C2371: 'tSudokuList': nueva definición; tipos básicos distintos
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(9): note: vea la declaración de 'tSudokuList'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(3): error C2374: 'MAX_SUDOKUS': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(3): note: vea la declaración de 'MAX_SUDOKUS'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(4): error C2374: 'FILENAME': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(4): note: vea la declaración de 'FILENAME'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(9): error C2371: 'tSudokuList': nueva definición; tipos básicos distintos
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.h(9): note: vea la declaración de 'tSudokuList'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\player.h(3): error C2374: 'FILEANAMEPLAYER': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\player.h(3): note: vea la declaración de 'FILEANAMEPLAYER'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\player.h(8): error C2371: 'tPlayer': nueva definición; tipos básicos distintos
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\player.h(8): note: vea la declaración de 'tPlayer'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(5): error C2374: 'SET_SIZE': nueva definición; inicialización múltiple
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(5): note: vea la declaración de 'SET_SIZE'
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(10): error C2371: 'tSet': nueva definición; tipos básicos distintos
+  c:\users\el ales\desktop\seduko\aasudoku\aasudoku\set.h(10): note: vea la declaración de 'tSet'
+  PlayerList.cpp
+  SudokuList.cpp
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.cpp(51): warning C4101: 'newScore': variable local sin referencia
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.cpp(51): warning C4101: 'newPosition': variable local sin referencia
+  Generando código...
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\sudokulist.cpp(16): error C4700: se utilizó la variable local 'i' sin inicializar
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\playerlist.cpp(19): error C4700: se utilizó la variable local 'newplayerptr' sin inicializar
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\playerlist.cpp(65): error C4700: se utilizó la variable local 'createdPlayer' sin inicializar
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\playerlist.cpp(104): error C4716: 'rankSort': debe devolver un valor
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\game.cpp(17): error C4716: 'loadGame': debe devolver un valor
+c:\users\el ales\desktop\seduko\aasudoku\aasudoku\game.cpp(54): error C4700: se utilizó la variable local 'valueInt' sin inicializar
